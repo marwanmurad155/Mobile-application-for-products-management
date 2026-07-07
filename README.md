@@ -1,2 +1,13 @@
-# Mobile-application-for-products-management
-A smart cloud-based system developed to track and manage products and organize warehouse stock efficiently using QR codes, Barcodes, and NFC technology. Tracks product inflows and outflows  and manages stock counting. Provides comprehensive user management with live data updates and generates reports. Utilizes Flutter  and Supabase for cloud-based.
+# Warehouse Companion: Cloud-Based Management System
+
+A cloud-integrated solution designed to streamline warehouse operations, product tracking, and inventory management. This project demonstrates real-time data synchronization, secure cloud architecture, and robust user authentication workflows.
+
+## 🎬 Project Video Demo
+Below is a live demonstration of the cloud infrastructure, data flow, and real-time synchronization with the cloud backend:
+
+<video src="Warehouse companion.mp4" width="100%" controls></video>
+
+## 📸 System Screenshots
+Here is a visual showcase of the application interface and its operational modules:
+
+![Warehouse Companion Interface](Warehouse companion.png)
